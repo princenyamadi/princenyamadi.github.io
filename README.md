@@ -1,10 +1,14 @@
 # 💫 About Me:
 
-### 👋🏽 Hi, I’m Prince E. Nyamadi — Software Engineer *(Mobile | Fullstack)*
+### 🧠 Professional Summary
 
-I'm a passionate Software Engineer with **7+ years of experience** building clean, scalable, and user-centric solutions across mobile, web, and backend systems.
+I’m Prince E. Nyamadi, a results-driven **Software Engineer** with 7+ years of experience crafting innovative, scalable, and impactful digital solutions. My work spans **mobile**, **web**, and **backend systems**, with a deep passion for building seamless user experiences and robust architectures.
 
-I specialize in **Flutter**, **React**, **Angular**, **Spring Boot**, and **Node.js**, crafting intuitive UIs backed by robust, scalable APIs.
+I specialize in **cross-platform development** with **Flutter**, **responsive frontend engineering** using **Angular** and **React**, and **API-first backend systems** built with **Spring Boot** and **Node.js**. My approach blends clean code practices, product thinking, and a strong focus on performance and maintainability.
+
+Throughout my career, I’ve led and contributed to projects across **fintech**, **travel**, and **IoT automation**, taking ideas from concept to production with a blend of technical execution and collaboration.
+
+Whether I'm shipping mobile apps, building web platforms, or deploying serverless APIs, I’m driven by curiosity, committed to continuous learning, and inspired by real-world problem-solving.
 
 ---
 
@@ -17,6 +21,51 @@ I specialize in **Flutter**, **React**, **Angular**, **Spring Boot**, and **Node
 - 📡 **IoT Integrations** – Automation with **ESP32/8266**, Raspberry Pi, Arduino, sensors, and web control  
 
 ---
+
+### 🛠 Core Skills
+
+
+**Mobile Development**
+- **Flutter (advanced)** – Building high-performance, cross-platform apps for Android & iOS
+- **Firebase Services** – Auth, Firestore, Realtime DB, Cloud Functions, Crashlytics, Remote Config
+- **State Management** – Riverpod, Provider, BLoC, GetX
+- **CI/CD** – GitHub Actions, Azure DevOps for automatic build, test & deploy
+- **App Architectures** – Clean Architecture, MVVM, Repository Pattern
+- **Animations & UI/UX** – Custom transitions, Hero animations, Gesture handling
+- **Push Notifications** – Firebase Messaging, OneSignal
+- **Deep Linking & Routing** – Dynamic links, named routes, nested navigation
+- **Offline Support** – Local DB with Hive/Sqflite, data caching strategies
+- **Testing** – Unit, Widget, and Integration Testing with `flutter_test` & `mockito`
+- **App Store Deployment** – Play Store, App Store Connect, managing app updates and builds
+
+
+**Web Development**
+- Angular, React, Next.js
+- Responsive UI Design, Component Architecture, TailwindCSS, Material Design
+- REST & GraphQL APIs Integration
+
+**Backend Engineering**
+- Node.js (Express, NextJS), Java (Spring Boot)
+- RESTful APIs, Authentication (JWT, OAuth2), Microservices
+- PostgreSQL, MongoDB, Firebase Firestore & Realtime DB
+
+**Cloud & DevOps**
+- Firebase Hosting, Firebase Functions, GCP, Azure
+- CI/CD: GitHub Actions, Azure DevOps Pipelines
+- Docker, Nginx, Serverless Architecture
+
+**IoT & Embedded Systems**
+- ESP32, ESP8266, Arduino
+- GPIO Control, Sensor Integration, MQTT, WebSockets
+- Real-time dashboards and control apps (Flutter & Web)
+
+**Others**
+- Agile & Scrum, Git & GitHub, Figma (UI Collaboration)
+- Technical Writing & Documentation
+- Team Leadership & Mentorship
+
+---
+
 
 ### 💼 Projects & Products
 
@@ -42,9 +91,7 @@ I specialize in **Flutter**, **React**, **Angular**, **Spring Boot**, and **Node
 ### 👨🏽‍💻 Roles & Collaborations
 
 - Mobile Developer *(Volunteer)* @ **Slightly Techie Network** 
-- Mentoring junior developers in **Flutter**, **Spring Boot**, and clean architecture  
 
----
 
 
 ## 🌐 Socials:
